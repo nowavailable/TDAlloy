@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+Bundle-Localization: com/tdalloy/netbeans/common_ui/Bundle
+Bundle-Name: %OpenIDE-Module-Name
+Bundle-SymbolicName: com.tdalloy.netbeans.common_ui
+Bundle-Version: 1.0
+
