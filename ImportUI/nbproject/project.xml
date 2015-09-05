@@ -5,7 +5,13 @@
         <data xmlns="http://www.netbeans.org/ns/nb-module-project/3">
             <code-name-base>com.tdalloy.netbeans.import_ui</code-name-base>
             <suite-component/>
-            <module-dependencies/>
+            <module-dependencies>
+                <dependency>
+                    <code-name-base>org.netbeans.libs.osgi</code-name-base>
+                    <build-prerequisite/>
+                    <compile-dependency/>
+                </dependency>
+            </module-dependencies>
             <public-packages/>
         </data>
     </configuration>
